@@ -1,0 +1,1 @@
+Delete this file. The folder saving the images for the visual evaluation.

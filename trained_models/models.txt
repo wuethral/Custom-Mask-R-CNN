@@ -1,0 +1,1 @@
+Delete this file. The folder trained_models is for saving the trained models for every epoch.

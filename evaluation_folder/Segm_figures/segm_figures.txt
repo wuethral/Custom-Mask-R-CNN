@@ -1,0 +1,1 @@
+Delete this file. The folder Segm_figures is to save the plots of the evaluation for the segmentation.
